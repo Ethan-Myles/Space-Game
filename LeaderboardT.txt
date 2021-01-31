@@ -7,7 +7,3 @@ sixth,5
 seventh,5
 eighth,5
 ninth,5
-hi,0
-opo,0
-Ethan,1
-Ethan,-1
